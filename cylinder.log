@@ -1,0 +1,12 @@
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder <init>
+FINEST: Creation successful
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder area
+FINEST: method area() called
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder volume
+FINEST: method volume() called
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder toString
+FINEST: method toString() called
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder area
+FINEST: method area() called
+окт. 20, 2024 3:35:08 PM org.geometry3d.Cylinder volume
+FINEST: method volume() called

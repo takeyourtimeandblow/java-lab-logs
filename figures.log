@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-20T08:35:08.192926400Z</date>
+  <millis>1729413308192</millis>
+  <nanos>926400</nanos>
+  <sequence>0</sequence>
+  <logger>org.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>org.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creation successful</message>
+</record>
+<record>
+  <date>2024-10-20T08:35:08.302924100Z</date>
+  <millis>1729413308302</millis>
+  <nanos>924100</nanos>
+  <sequence>1</sequence>
+  <logger>org.geometry2d.Circle</logger>
+  <level>INFO</level>
+  <class>org.geometry2d.Rectangle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creation successful</message>
+</record>
+<record>
+  <date>2024-10-20T08:35:08.322426100Z</date>
+  <millis>1729413308322</millis>
+  <nanos>426100</nanos>
+  <sequence>8</sequence>
+  <logger>org.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>org.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creation successful</message>
+</record>
+</log>

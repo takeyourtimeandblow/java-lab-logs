@@ -1,6 +1,6 @@
 package org.geometry2d;
 
-interface Figure {
+public interface Figure {
     double area();
     double perimeter();
     @Override
